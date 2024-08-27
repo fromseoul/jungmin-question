@@ -1,5 +1,5 @@
 import React from 'react';
-import { useBoardsQuery } from '../pages/FreeBoards/hooks/useBoardsQuery';
+import { useBoardsQuery } from './hooks/useBoardsQuery';
 import styled from '@emotion/styled';
 import dayjs from 'dayjs';
 
